@@ -27,4 +27,6 @@ In the web UI, navigate to the Hardware page. In the hardware dropdown there wil
 
 ## Change log
 
-1.4.0:  Initial upload version
+| Version | Information|
+| ----- | ---------- |
+| 1.4.0 | Initial upload version |
