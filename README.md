@@ -20,8 +20,10 @@ In the web UI, navigate to the Hardware page. In the hardware dropdown there wil
 
 ## Configuration
 
-'Serial Port': Dropdown to select the Serial Port the RAVEn is plugged into
-'Debug': When true the logging level will be much higher to aid with troubleshooting, when set to 'Logging' a 'plugin.log' file will be created in the plugin folder with debug information.
+| Field | Information|
+| ----- | ---------- |
+| Serial Port | Dropdown to select the Serial Port the RAVEn is plugged into |
+| Debug | When true the logging level will be much higher to aid with troubleshooting, when set to 'Logging' a 'plugin.log' file will be created in the plugin folder with debug information |
 
 ## Change log
 
