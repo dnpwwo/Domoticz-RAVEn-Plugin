@@ -13,7 +13,7 @@ Python version 3.4 or higher required & Domoticz version 3.7xxx or greater.
 
 To install:
 
-* Go in your Domoticz directory, open the plugins directory and create a new one.
+* Go in your Domoticz directory, open the plugins directory and create a new one called 'RAVEn' or similar.
 * Go in this new folder and run: git pull https://github.com/dnpwwo/Domoticz-RAVEn-Plugin.git at the command line
 * Restart Domoticz.
 In the web UI, navigate to the Hardware page. In the hardware dropdown there will be an entry called "RAVEn Zigbee energy monitor".
